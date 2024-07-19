@@ -3,4 +3,4 @@ Multiplayer web-based game for Professor Ipek Koparan. BuyWord is a board game t
 
 
 # Project Updates / To-Do List
--[] Ensure proper web-socket connection in waiting room and state updating before starting game
+-[ ] Ensure proper web-socket connection in waiting room and state updating before starting game
